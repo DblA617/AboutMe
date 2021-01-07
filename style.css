@@ -1,0 +1,28 @@
+
+
+    h2{
+        font-style: italic;
+    }
+    .smaller-image{
+        width: 150px;
+    }
+    .thin-black-border{
+        border: 10px  rosybrown solid;
+    }
+    p{
+        font: icon;
+    }
+    body{
+        background-color: wheat;
+    }
+    #hobby{
+        font-weight: 600;
+    }
+    .gold-border{
+        border: 10px goldenrod;
+    }
+    
+
+  
+
+
